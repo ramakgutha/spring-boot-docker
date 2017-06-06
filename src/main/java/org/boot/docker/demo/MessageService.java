@@ -15,6 +15,6 @@ public class MessageService {
 	
 	@RequestMapping("/say")
 	public String message () {
-		return "Hello spring-boot-docker";
+		return "Hello Spring Boot Docker";
 	}
 }
